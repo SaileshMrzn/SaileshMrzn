@@ -2,7 +2,7 @@
 
 ```javascript
 const Sailesh = {
-    top_skills: ["Javascript", "React", "Redux", "Tailwind"],
+    topSkills: ["Javascript", "React", "Redux", "Tailwind"],
     askMeAbout: ["web dev", "tech", "football", "music"],
     currentFocus: "Get an official start in Software Development",
     funFact: "There are two ways to write error-free programs; only the third one works"

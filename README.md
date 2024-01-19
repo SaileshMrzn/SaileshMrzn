@@ -1,4 +1,11 @@
 # Hi 👋 I am Sailesh! 
+
+const Sailesh = {
+    skills: ["Javascript", "React", "Redux", "Tailwind"],
+    askMeAbout: ["web dev", "tech", "football", "music"],
+    currentFocus: "Get an official start in Software Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaileshMrzn&show_icons=true&theme=bear" width="400">

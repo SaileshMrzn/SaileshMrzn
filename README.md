@@ -4,7 +4,7 @@
 const Sailesh = {
     topSkills: ["Javascript", "React", "Redux", "Tailwind"],
     askMeAbout: ["web dev", "tech", "football", "music"],
-    traits: ["quick learner", "creative", "striving towards learning new things and improving myself every day"]
+    traits: ["quick learner", "creative", "striving towards learning new things and improving myself every day"],
     currentFocus: "Get an official start in Software Development",
     noContext: "What led to the Programmer's departure? ... Commitment issues"
 };

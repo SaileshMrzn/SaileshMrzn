@@ -2,10 +2,10 @@
 
 ```javascript
 const Sailesh = {
-    topSkills: ["Javascript", "React", "Redux", "Tailwind"],
+    topSkills: ["Javascript", "React", "React Native", "Redux", "Tailwind"],
     askMeAbout: ["web dev", "tech", "football", "music"],
     traits: ["quick learner", "creative", "learning new things and improving myself every day"],
-    currentFocus: "Get an official start in Software Development",
+    currentFocus: "Mid level Frontend Developer",
     noContext: "Why did the Programmer break up? ... Commitment issues"
 };
 ```
